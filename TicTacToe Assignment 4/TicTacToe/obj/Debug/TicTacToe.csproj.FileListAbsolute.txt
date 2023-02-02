@@ -1,0 +1,14 @@
+D:\Dev\c#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\Dev\c#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\Dev\c#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\Dev\c#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+D:\Dev\c#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\Dev\c#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\beren\OneDrive\Masaüstü\TicTacToe-master\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\beren\OneDrive\Masaüstü\TicTacToe-master\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\beren\OneDrive\Masaüstü\TicTacToe-master\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\beren\OneDrive\Masaüstü\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\beren\OneDrive\Masaüstü\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\beren\OneDrive\Masaüstü\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\beren\OneDrive\Masaüstü\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\beren\OneDrive\Masaüstü\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.pdb
